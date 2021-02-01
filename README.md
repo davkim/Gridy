@@ -1,5 +1,4 @@
-# Gridy
-A DSL for touch-based rhythm game
+# cpsc410_project1_team18 - Gridy
 
 ## Gridy
 [![Gridy_video_link](https://github.students.cs.ubc.ca/cpsc410-2020w-t1/cpsc410_project1_team18/blob/master/images/youtube.png)](https://youtu.be/LpiFU69CHWo)
@@ -241,4 +240,3 @@ b.Add(blue, 5, 1, 2);
 // Insert a Section named 'b' to the game. This section would be executed from 30secs ~ 40secs of the game.
 AddSection(b); 
 ```
-
